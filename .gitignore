@@ -1,0 +1,8 @@
+output
+*.mlmodel
+*.bin
+yolov*
+*.MOV
+*.mp4
+.DS_Store
+*.json

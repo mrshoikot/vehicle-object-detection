@@ -1,0 +1,16 @@
+path: /var/www/html/Capstone/yolov8/vehicle/main/train/data
+train: train
+val: valid
+
+# Classes
+names:
+  0: car
+  1: bus
+  2: rickshaw
+  3: motorcycle
+  4: van
+  5: truck
+  6: pickup
+  7: bicycle
+  8: cng
+  9: leguna
